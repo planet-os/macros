@@ -1,4 +1,4 @@
-name := "planetos-macros"
+name := "planetos.macros"
 organization := "com.planetos"
 
 version := "1.3.2-SNAPSHOT"
